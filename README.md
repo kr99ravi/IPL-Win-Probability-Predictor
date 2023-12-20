@@ -6,7 +6,7 @@ The IPL Win Probability Predictor is a web application built using Streamlit. It
 
 To run the IPL Win Predictor locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/shaadclt/Ipl-Win-Probability-Predictor.git`
+1. Clone the repository:
 2. Navigate to the project directory: `cd Ipl-Win-Probability-Predictor`
 3. Install the required dependencies: `pip install -r requirements.txt`
 4. Run the application: `streamlit run app.py`
@@ -32,13 +32,6 @@ The model has been trained on a dataset that includes information about IPL matc
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. Make sure to follow the existing code style and guidelines.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For any questions or inquiries, please feel free to reach out to [shaadclt@gmail.com].
 
 ---
 
